@@ -6,7 +6,7 @@
 
 ![Platform](https://img.shields.io/badge/platform-cross--platform-lightgrey.svg)
 
-![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.2-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/nick-king-ops02i0/clautool?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/nick-king-ops02i0/clautool?style=flat-square)
+![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.3-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/nick-king-ops02i0/clautool?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/nick-king-ops02i0/clautool?style=flat-square)
 
 Claude — tool — lightweight CLI utility with configurable settings
 
